@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3B68C718-6934-4BFC-B797-74BAE2E44AA8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TP6 - Tris</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>65BA71D7-6EEC-4634-82E3-9571BC7BBB81</key>
+		<string>https://github.com/lakhyos/TP6---Tris.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TP6 - Tris.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>65BA71D7-6EEC-4634-82E3-9571BC7BBB81</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/lakhyos/TP6---Tris.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>65BA71D7-6EEC-4634-82E3-9571BC7BBB81</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>65BA71D7-6EEC-4634-82E3-9571BC7BBB81</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TP6 - Tris</string>
+		</dict>
+	</array>
+</dict>
+</plist>
