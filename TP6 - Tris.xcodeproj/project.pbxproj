@@ -7,8 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B91072ED1857AE3E0029FB28 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = B91072EC1857AE3E0029FB28 /* main.c */; };
+		B9093FD81857D7E0005322C5 /* main t.c in Sources */ = {isa = PBXBuildFile; fileRef = B9093FD71857D7E0005322C5 /* main t.c */; };
+		B91072ED1857AE3E0029FB28 /* Tris tableaux.h in Sources */ = {isa = PBXBuildFile; fileRef = B91072EC1857AE3E0029FB28 /* Tris tableaux.h */; };
 		B91072EF1857AE3E0029FB28 /* TP6___Tris.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = B91072EE1857AE3E0029FB28 /* TP6___Tris.1 */; };
+		B9F63F8618589F7A0084782C /* main l.cold in Sources */ = {isa = PBXBuildFile; fileRef = B9F63F8518589F7A0084782C /* main l.cold */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,9 +27,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B9093FD71857D7E0005322C5 /* main t.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "main t.c"; sourceTree = "<group>"; };
 		B91072E91857AE3E0029FB28 /* TP6 - Tris */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "TP6 - Tris"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B91072EC1857AE3E0029FB28 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		B91072EC1857AE3E0029FB28 /* Tris tableaux.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tris tableaux.h"; sourceTree = "<group>"; };
 		B91072EE1857AE3E0029FB28 /* TP6___Tris.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = "TP6___Tris.1"; sourceTree = "<group>"; };
+		B9D4E00118587B8B00908ED6 /* Tris listes.hold */ = {isa = PBXFileReference; lastKnownFileType = text; path = "Tris listes.hold"; sourceTree = "<group>"; };
+		B9F63F8518589F7A0084782C /* main l.cold */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "main l.cold"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +65,10 @@
 		B91072EB1857AE3E0029FB28 /* TP6 - Tris */ = {
 			isa = PBXGroup;
 			children = (
-				B91072EC1857AE3E0029FB28 /* main.c */,
+				B9093FD71857D7E0005322C5 /* main t.c */,
+				B91072EC1857AE3E0029FB28 /* Tris tableaux.h */,
+				B9F63F8518589F7A0084782C /* main l.cold */,
+				B9D4E00118587B8B00908ED6 /* Tris listes.hold */,
 				B91072EE1857AE3E0029FB28 /* TP6___Tris.1 */,
 			);
 			path = "TP6 - Tris";
@@ -117,7 +125,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B91072ED1857AE3E0029FB28 /* main.c in Sources */,
+				B9093FD81857D7E0005322C5 /* main t.c in Sources */,
+				B9F63F8618589F7A0084782C /* main l.cold in Sources */,
+				B91072ED1857AE3E0029FB28 /* Tris tableaux.h in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -225,6 +235,7 @@
 				B91072F41857AE3E0029FB28 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
